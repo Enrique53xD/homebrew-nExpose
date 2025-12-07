@@ -5,7 +5,7 @@ class Nexpose < Formula
   # Point the source code to the release of your nExpose code
   url "https://github.com/Enrique53xD/nExpose/archive/refs/tags/v1.1.0.tar.gz"
   # NOTE: REPLACE THE SHA256 BELOW
-  sha256 "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed" 
+  sha256 "03bbda26e10f40084960822953b861d1e9c6e8c571b73a8a7ec3578f7ff97b9b" 
   license "MIT"
 
   # Dependencies needed for nExpose to run
